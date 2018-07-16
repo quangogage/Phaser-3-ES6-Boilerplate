@@ -1,5 +1,5 @@
 import Phaser from 'phaser';
-import PlayScene from './scenes/Play';
+import PlayScene from './Scenes/Play';
 
 let config = {
   type: Phaser.AUTO,
