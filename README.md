@@ -1,2 +1,2 @@
-# Phaser-3-ES6-Boilerplate
-A boilerplate for developing phaser 3 games with ES6
+# ES6-Phaser-3-Boilerplate
+A boilerplate for my phaser 3 games. Allows for easy mobile development.

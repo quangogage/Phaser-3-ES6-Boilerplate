@@ -1,0 +1,26 @@
+{
+  "name": "ES6-Webpack-Boilerplate",
+  "version": "1.0.0",
+  "description": "A boilerplate for developing with webpack and es6",
+  "scripts": {
+    "start": "webpack-dev-server --hot --progress --inline --config webpack.config.js --host 0.0.0.0",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/quangogage/ES6-Webpack-Boilerplate.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/quangogage/ES6-Phaser-3-Boilerplate/issues"
+  },
+  "homepage": "https://github.com/quangogage/ES6-Phaser-3-Boilerplate#readme",
+  "devDependencies": {
+    "babel-loader": "^7.1.5",
+    "webpack": "^4.16.1",
+    "webpack-cli": "^3.0.8",
+    "webpack-dev-server": "^3.1.4"
+  }
+}
